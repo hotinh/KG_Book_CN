@@ -1,33 +1,8 @@
-# 关联数据和知识图谱在大型组织用的运用
-> 学习、交流
+# 翻译
 
-> Exploiting Linked Data and Knowledge Graphs in Large Organizations
-> Jeff Z. Pan · Guido Vetere
->
-> Jose Manuel Gomez-Perez
-> 
-> Honghan Wu
-> 
-> Editors
-> 
-> Springer
+学习
 
-------
 
-## 序言
-
-## 前言
-
-## 目录
-* 第1章
-* 第2章
-* 第3章
-* 第4章
-* 第5章
-* 第6章
-* 第7章
-* 第8章
-* 第9章
 
 ## 免责声明
 
